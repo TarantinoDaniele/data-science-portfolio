@@ -1,2 +1,3 @@
 #ignore all files in the directory, due to size
 01 LSTM/household_power_consumption/**
+02_LSTM/household_power_consumption/**
