@@ -1,6 +1,7 @@
 # data-science-portfolio
 
 ---WIP---
+
 Below a list of my data science projects.
 
 |No.    | Project    | Resource link    | Completed   |
